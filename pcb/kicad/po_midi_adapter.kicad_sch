@@ -995,6 +995,12 @@
     (path "/00000000-0000-0000-0000-000061a9b941/00000000-0000-0000-0000-000061bdb409"
       (reference "J99") (unit 1) (value "0022232041") (footprint "digikey-footprints:PinHeader_1x4_P2.54mm_Drill1.02mm")
     )
+    (path "/00000000-0000-0000-0000-000061a9b941/94aa3437-402a-485f-b0c8-88173afc2099"
+      (reference "JP2") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
+    )
+    (path "/00000000-0000-0000-0000-000061a9b941/4196f956-749f-4b79-a64b-919358bb7fc0"
+      (reference "JP3") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
+    )
     (path "/00000000-0000-0000-0000-000061a9b941/00000000-0000-0000-0000-00005c41f4c1"
       (reference "R2") (unit 1) (value "220") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
@@ -1015,9 +1021,6 @@
     )
     (path "/00000000-0000-0000-0000-000061a9b941/00000000-0000-0000-0000-000061dd5f1d"
       (reference "R14") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-000061a9b941/00000000-0000-0000-0000-000061aead85"
-      (reference "S1") (unit 1) (value "MOMENTARY-SWITCH-SPST-SMD-5.2MM") (footprint "poma:TACTILE_SWITCH_SMD_5.2MM")
     )
     (path "/00000000-0000-0000-0000-000061a9b941/00000000-0000-0000-0000-00005f1031ea"
       (reference "U1") (unit 1) (value "Teensy4.1") (footprint "Teensy:Teensy41_poma")
