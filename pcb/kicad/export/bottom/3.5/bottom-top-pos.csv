@@ -1,0 +1,19 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,70.828,37.4175,90,top
+C2,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,59.73546,37.78,90,top
+C4,1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,71.1405,14.08,0,top
+C5,10uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,72.33546,5.78,0,top
+C6,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,72.37296,1.38,0,top
+C7,10uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,72.37296,3.68,0,top
+C8,0.1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,68.43546,5.78,0,top
+D2,LED,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,83.53546,39.705,-90,top
+R2,220,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,72.73546,39.58,-90,top
+R3,220,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,75.13546,39.48,-90,top
+R7,220,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,44.23546,36.78,-90,top
+R8,470,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,61.93546,37.78,-90,top
+R10,68,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,85.93546,39.78,-90,top
+R12,10K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,70.03546,-6.42,90,top
+R14,10K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,70.33546,-0.72,0,top
+U2,SN74LVC1G07DBVR,SOT-753,73.728,35.33,0,top
+U4,LM1117-3.3,SOT-89-3,71.428,9.98,-90,top
+U5,ESP32-C3-WROOM-02,ESP32-C3-WROOM-02,58.58546,-5.57,180,top

@@ -1032,7 +1032,7 @@
       (reference "U3") (unit 1) (value "H11L1M") (footprint "Package_DIP:DIP-6_W7.62mm")
     )
     (path "/00000000-0000-0000-0000-000061a9b941/00000000-0000-0000-0000-000061ae8f7a"
-      (reference "U4") (unit 1) (value "LM1117-3.3") (footprint "Package_TO_SOT_SMD:SOT-223")
+      (reference "U4") (unit 1) (value "LM1117-3.3") (footprint "Package_TO_SOT_SMD:SOT-89-3")
     )
     (path "/00000000-0000-0000-0000-000061a9b941/00000000-0000-0000-0000-000061afdd18"
       (reference "U5") (unit 1) (value "ESP32-C3-WROOM-02") (footprint "Espressif:ESP32-C3-WROOM-02")

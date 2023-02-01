@@ -1,0 +1,12 @@
+Comment,Designator,Footprint,LCSC
+0.1uF,"C1,C2,C6,C8",Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C28233
+1uF,C4,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C28323
+10uF,"C5,C7",Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder, C440198 
+LED,D2,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C409784
+68,R10,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C17802
+10K,"R12,R14",Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder, C17414 
+220,"R2,R3,R7",Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder, C17557 
+470,R8,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C17710 
+SN74LVC1G07DBVR,U2,digikey-footprints:SOT-753,C7829
+LM1117-3.3,U4,Package_TO_SOT_SMD:SOT-89,C5120796
+ESP32-C3-WROOM-02,U5,Espressif:ESP32-C3-WROOM-02,C2934560

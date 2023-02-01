@@ -1,0 +1,1 @@
+./fetchComponent.py fetchlcsc --kicadLib tlv320aic3204.pretty --force C24109

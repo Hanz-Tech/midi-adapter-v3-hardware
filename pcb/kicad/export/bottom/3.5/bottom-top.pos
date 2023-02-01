@@ -1,0 +1,24 @@
+### Module positions - created on Mon Jan 30 01:27:55 2023 ###
+### Printed by Pcbnew version (6.0.2)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                                             PosX       PosY       Rot  Side
+C1        0.1uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      70.8280    37.4175   90.0000  top
+C2        0.1uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      59.7355    37.7800   90.0000  top
+C4        1uF                C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      71.1405    14.0800    0.0000  top
+C5        10uF               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      72.3355     5.7800    0.0000  top
+C6        0.1uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      72.3730     1.3800    0.0000  top
+C7        10uF               C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      72.3730     3.6800    0.0000  top
+C8        0.1uF              C_0805_2012Metric_Pad1.18x1.45mm_HandSolder      68.4355     5.7800    0.0000  top
+D2        LED                LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    83.5355    39.7050  -90.0000  top
+R2        220                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      72.7355    39.5800  -90.0000  top
+R3        220                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      75.1355    39.4800  -90.0000  top
+R7        220                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      44.2355    36.7800  -90.0000  top
+R8        470                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      61.9355    37.7800  -90.0000  top
+R10       68                 R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      85.9355    39.7800  -90.0000  top
+R12       10K                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      70.0355    -6.4200   90.0000  top
+R14       10K                R_0805_2012Metric_Pad1.20x1.40mm_HandSolder      70.3355    -0.7200    0.0000  top
+U2        SN74LVC1G07DBVR    SOT-753                                          73.7280    35.3300    0.0000  top
+U4        LM1117-3.3         SOT-89-3                                         71.4280     9.9800  -90.0000  top
+U5        ESP32-C3-WROOM-02  ESP32-C3-WROOM-02                                58.5855    -5.5700  180.0000  top
+## End

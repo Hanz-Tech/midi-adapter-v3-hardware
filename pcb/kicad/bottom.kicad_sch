@@ -2971,13 +2971,16 @@
     (uuid 00000000-0000-0000-0000-000061ae8f7a)
     (property "Reference" "U4" (id 0) (at 233.68 19.2532 0))
     (property "Value" "LM1117-3.3" (id 1) (at 233.68 21.5646 0))
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-223" (id 2) (at 233.68 25.4 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-89-3" (id 2) (at 233.68 25.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm1117.pdf" (id 3) (at 233.68 25.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" " C126027 " (id 4) (at 233.68 25.4 0)
+    (property "LCSC" " C5120796" (id 4) (at 233.68 25.4 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "MPN" "AZ1117CR-3.3TRG1" (id 5) (at 233.68 25.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ef8880b4-ed2b-4475-8751-b7eb789bf5f9))
@@ -3009,7 +3012,7 @@
     (property "Reference" "R10" (id 0) (at 119.38 54.61 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "68" (id 1) (at 118.11 57.15 90)
+    (property "Value" "50" (id 1) (at 118.11 57.15 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 116.84 58.928 90)
@@ -3563,14 +3566,17 @@
     (path "/00000000-0000-0000-0000-000061bdb409"
       (reference "J99") (unit 1) (value "0022232041") (footprint "digikey-footprints:PinHeader_1x4_P2.54mm_Drill1.02mm")
     )
+    (path "/94aa3437-402a-485f-b0c8-88173afc2099"
+      (reference "JP2") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
+    )
+    (path "/4196f956-749f-4b79-a64b-919358bb7fc0"
+      (reference "JP3") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
+    )
     (path "/00000000-0000-0000-0000-00005c41f4c1"
       (reference "R2") (unit 1) (value "220") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00005c8cd867"
       (reference "R3") (unit 1) (value "220") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c91ea71"
-      (reference "R4") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00005e741484"
       (reference "R7") (unit 1) (value "220") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
@@ -3587,9 +3593,6 @@
     (path "/00000000-0000-0000-0000-000061dd5f1d"
       (reference "R14") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
-    (path "/00000000-0000-0000-0000-000061aead85"
-      (reference "S1") (unit 1) (value "MOMENTARY-SWITCH-SPST-SMD-5.2MM") (footprint "poma:TACTILE_SWITCH_SMD_5.2MM")
-    )
     (path "/00000000-0000-0000-0000-00005f1031ea"
       (reference "U1") (unit 1) (value "Teensy4.1") (footprint "Teensy:Teensy41_poma")
     )
@@ -3600,7 +3603,7 @@
       (reference "U3") (unit 1) (value "H11L1M") (footprint "Package_DIP:DIP-6_W7.62mm")
     )
     (path "/00000000-0000-0000-0000-000061ae8f7a"
-      (reference "U4") (unit 1) (value "LM1117-3.3") (footprint "Package_TO_SOT_SMD:SOT-223")
+      (reference "U4") (unit 1) (value "LM1117-3.3") (footprint "Package_TO_SOT_SMD:SOT-89-3")
     )
     (path "/00000000-0000-0000-0000-000061afdd18"
       (reference "U5") (unit 1) (value "ESP32-C3-WROOM-02") (footprint "Espressif:ESP32-C3-WROOM-02")

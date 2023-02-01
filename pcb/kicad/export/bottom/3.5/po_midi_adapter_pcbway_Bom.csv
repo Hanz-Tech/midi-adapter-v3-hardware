@@ -1,0 +1,12 @@
+Comment,Designator,Footprint,Mfg Part
+0.1uF,"C1,C2,C6,C8",Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,
+1uF,C4,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,
+10uF,"C5,C7",Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,
+LED,D2,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,150080YS75000 
+68,R10,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,
+10K,"R12,R14",Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,
+220,"R2,R3,R7",Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,
+470,R8,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,
+SN74LVC1G07DBVR,U2,digikey-footprints:SOT-753,SN74LVC1G07DBVR
+LM1117-3.3,U4,Package_TO_SOT_SMD:SOT-89,AZ1117CR-3.3TRG1
+ESP32-C3-WROOM-02,U5,SMD,ESP32-C3-WROOM-02-N4 
