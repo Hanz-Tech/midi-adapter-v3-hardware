@@ -64,8 +64,8 @@
       35,
       36
     ],
-    "visible_layers": "000103f_80000001",
-    "zone_display_mode": 0
+    "visible_layers": "000113f_80000001",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "po_midi_adapter.kicad_prl",

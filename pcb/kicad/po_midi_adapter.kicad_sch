@@ -876,7 +876,7 @@
       (reference "C8") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-000061a9b941/00000000-0000-0000-0000-00005e7517a3"
-      (reference "D1") (unit 1) (value "1N914") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+      (reference "D1") (unit 1) (value "1N4148W") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-000061a9b941/00000000-0000-0000-0000-000061af8e2c"
       (reference "D2") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
@@ -974,6 +974,9 @@
     (path "/fbe29266-f2ba-428d-94f0-19b62805ff3a"
       (reference "J32") (unit 1) (value "Conn_01x14_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x14_P2.54mm_Vertical")
     )
+    (path "/00000000-0000-0000-0000-000061a5b3c5/cc161bc5-103e-454f-bc68-ddfa43a9aa07"
+      (reference "J33") (unit 1) (value "Conn_01x01") (footprint "Connector_Pin:Pin_D1.0mm_L10.0mm")
+    )
     (path "/00000000-0000-0000-0000-000061a9b941/00000000-0000-0000-0000-00005e73a8fa"
       (reference "J40") (unit 1) (value "MIDI_1_IN") (footprint "poma:MIDI_DIN5_NO_ATTACHEMENT")
     )
@@ -1029,7 +1032,7 @@
       (reference "U2") (unit 1) (value "SN74LVC1G07DBVR") (footprint "digikey-footprints:SOT-753")
     )
     (path "/00000000-0000-0000-0000-000061a9b941/00000000-0000-0000-0000-00005e732c8b"
-      (reference "U3") (unit 1) (value "H11L1M") (footprint "Package_DIP:DIP-6_W7.62mm")
+      (reference "U3") (unit 1) (value "H11L1M") (footprint "poma:IC_H11L1SM")
     )
     (path "/00000000-0000-0000-0000-000061a9b941/00000000-0000-0000-0000-000061ae8f7a"
       (reference "U4") (unit 1) (value "LM1117-3.3") (footprint "Package_TO_SOT_SMD:SOT-89-3")

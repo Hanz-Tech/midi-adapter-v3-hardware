@@ -180,7 +180,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "export/top/poma_top_3_6/top.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
